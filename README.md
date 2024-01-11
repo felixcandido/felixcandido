@@ -2,7 +2,7 @@
 
 - 🔥 Junior Developer focused on NodeJS 
 
-- 🌱 I’m currently learning the NestJS framework and PostgreSQL with TypeORM
+- 🌱 I’m currently learning the NestJS framework and solidity language
 
 - 📚 Studying system analysis and development at UNIFASB
 <br><br>
@@ -17,6 +17,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-05122A?.svg?style=flat&logo=solidity&logoColor=Blue)
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
